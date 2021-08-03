@@ -13,7 +13,7 @@ public class Main {
         }else if (!name.isEmpty() && !name.endsWith("a")) {
                 System.out.println("Jestes facetem");
             } else {
-                System.out.println("Podaj imie nie moze byc puste");
+                System.out.println("Podaj d d dx imie nie moze byc puste");
             }
         }
 
